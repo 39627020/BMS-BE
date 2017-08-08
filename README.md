@@ -1,5 +1,6 @@
 # BMS-BE
 基于springboot的考试项目（后台）
+[![Build Status](https://travis-ci.org/MengStar/BMS-BE.svg?branch=develop)](https://travis-ci.org/MengStar/BMS-BE)
 
 [前端项目地址](https://github.com/MengStar/lanou)
 

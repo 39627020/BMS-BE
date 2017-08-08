@@ -1,0 +1,14 @@
+language: java
+
+jdk:
+  - openjdk8
+
+before_install:
+   - mvn install -Dmaven.javadoc.skip=true
+   - "echo skipped"
+install:
+   - "echo skipped"
+script:
+  - mvn install -Dmaven.javadoc.skip=true
+  - mvn package
+  - "echo skipped"
