@@ -1,4 +1,4 @@
-# BMS-BE[![Build Status](https://travis-ci.org/MengStar/BMS-BE.svg?branch=develop)](https://travis-ci.org/MengStar/BMS-BE)
+# BMS-BE [![Build Status](https://travis-ci.org/MengStar/BMS-BE.svg?branch=develop)](https://travis-ci.org/MengStar/BMS-BE)
 基于springboot的考试项目（后台）
 
 
