@@ -1,0 +1,26 @@
+logging:
+  level:
+    org:
+      springframework:
+        data: ERROR
+        security: ERROR
+    hibernate: ERROR
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: true
+  data:
+    rest:
+      base-path: /data #rest data root url
+
+server:
+  port: 8080 #端口
+  context-path: /api/v1 #根目录
+
+jwt:
+  header: Authorization
+  tokenHead: BMS-
+  expiration: 36000
+  secret: liuxing
